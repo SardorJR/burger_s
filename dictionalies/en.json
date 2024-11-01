@@ -1,0 +1,15 @@
+{
+    "header": {
+      "title": "Only the most",
+      "titleTwo": "juicy burgers!",
+      "subtitle": "Free shipping from 599₽"
+    },
+    "footer": {
+      "callNumber": "Order number",
+      "site": "we are on social networks"
+  
+    },
+      "products": {
+        "cart": "Add to Cart"
+      }
+  }
